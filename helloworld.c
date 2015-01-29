@@ -2,5 +2,5 @@
 
 int main(){
 	printf("Welcome to Linux Training Campaign!!! ^^\n");
-    printf("Say Hello!");
+    printf("Say Hi!");
 }
